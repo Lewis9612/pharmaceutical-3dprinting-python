@@ -51,7 +51,7 @@ $$\frac{dC}{dt} = \frac{D \cdot A}{V \cdot h} (C_s - C)$$
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pharmaceutical-3dprinting-python.git
+   git clone https://github.com/Lewis9612/pharmaceutical-3dprinting-python.git
    cd pharmaceutical-3dprinting-python
    ```
 
