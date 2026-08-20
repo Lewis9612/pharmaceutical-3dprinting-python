@@ -9,7 +9,7 @@ A collection of Python scripts, kinetic simulation engines, and machine learning
 
 ## Overview of Modules
 
-### 1. Dissolution Kinetic Simulator (`my_dissolution_predictor/dissolution_predictor.py`)
+### 1. Dissolution Kinetic Simulator (`dissolution_predictor.py`)
 - **Physics Engine**: Implements the Noyes-Whitney equation to simulate percentage drug dissolved over time in a 900 mL dissolution bath ($V = 0.9\text{ L}$, $C_s = 500\text{ mg/L}$).
 - **Surface Area Models**: Mathematical surface area equations comparing standard solid cylindrical tablets against multi-channelled tablet architectures (based on geometry models from Alhnan et al. 2018).
 - **Output**: Generates time-series dissolution curves (`my_dissolution_plot.png`) illustrating how surface-area-to-volume ratio controls drug release rates.
